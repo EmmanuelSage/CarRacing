@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\car racing\car racing\bin\Debug\car racing.exe.config
+E:\100days\NiitGithub\car racing\car racing\bin\Debug\car racing.exe.config
+E:\100days\NiitGithub\car racing\car racing\obj\Debug\car racing.csprojResolveAssemblyReference.cache
+E:\100days\NiitGithub\car racing\car racing\obj\Debug\car_racing.Form1.resources
+E:\100days\NiitGithub\car racing\car racing\obj\Debug\car_racing.Properties.Resources.resources
+E:\100days\NiitGithub\car racing\car racing\obj\Debug\car racing.csproj.GenerateResource.Cache
